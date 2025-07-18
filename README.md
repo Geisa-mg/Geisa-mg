@@ -7,8 +7,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" />
 </div>
        
-### Statistics ...
-<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geisa-mg&layout=compact&langs_count=7&theme=blue-green"/>
+### Statistics
+<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geisa-mg&layout=compact&langs_count=7&theme=github_dark"/>
 
 
           
